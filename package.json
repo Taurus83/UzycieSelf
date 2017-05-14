@@ -1,0 +1,28 @@
+{
+  "name": "kodilla-uzycieself",
+  "version": "1.0.0",
+  "description": "uzycie self",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taurus83/UzycieSelf.git"
+  },
+  "keywords": [
+    "Uzycie",
+    "Self"
+  ],
+  "author": "Piotr Rucinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taurus83/UzycieSelf/issues"
+  },
+  "homepage": "https://github.com/Taurus83/UzycieSelf#readme"
+}
